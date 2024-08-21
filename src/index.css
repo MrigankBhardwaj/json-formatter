@@ -1,0 +1,7 @@
+.MainCountingDiv {
+    display: flex;
+}
+.MainCountingDiv .WordsCount{
+    margin-left : 10px ;
+    margin-right : 40px;
+}
